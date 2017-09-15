@@ -1,0 +1,20 @@
+export const message = {
+    OK: 'The request has been fulfilled',
+    Error: 'There was an error. Try again please!',
+    Created: 'Device info is added successfully.',
+    Updated: 'Device info is updated successfully.',
+    Deleted: ' Device is deleted',
+    Booked: ' Device is allocated to you.',
+    CannotBlock: 'You cannot book more than one device.',
+    InUse: ' Device is in use',
+    Released: 'Device is released',
+    CannotRelease: 'You can not release this device',
+    NotAssigned: 'You are not assigned to any Device',
+    Connected: 'Device is connected',
+    DisConnected: 'Devices is disconnected',
+    CannotEmpty: 'Post request cannot accept empty body',
+    NotAllowed: 'Method not allowed.',
+    NotFound: 'Page not Found',
+    Authrized: 'Authentication is successfull',
+    Unauthorized: 'Unauthorized User'
+};

@@ -1,0 +1,21 @@
+{
+    "dependencies": {
+        "async": "registry:npm/async#2.0.1+20160815105832",
+        "bcrypt": "registry:npm/bcrypt#1.0.0+20161205015554",
+        "body-parser": "registry:dt/body-parser#0.0.0+20170217110614",
+        "compression": "registry:dt/compression#0.0.0+20160725212620",
+        "cors": "registry:dt/cors#2.8.0+20170104211352",
+        "express": "registry:dt/express#4.0.0+20170118060322",
+        "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20161228005052",
+        "jsonwebtoken": "registry:npm/jsonwebtoken#7.1.8+20160811031426",
+        "passport": "registry:npm/passport#0.3.0+20161028163825",
+        "request": "registry:npm/request#2.69.0+20160428223725",
+        "sequelize": "registry:dt/sequelize#4.0.0+20170322194850",
+        "serve-static": "registry:npm/serve-static#1.11.1+20161113104247",
+        "uuid": "registry:npm/uuid#3.0.1+20161206160008"
+    },
+    "globalDependencies": {
+        "es6-promise": "registry:dt/es6-promise#0.0.0+20160726191732",
+        "node": "registry:dt/node#7.0.0+20170322231424"
+    }
+}
